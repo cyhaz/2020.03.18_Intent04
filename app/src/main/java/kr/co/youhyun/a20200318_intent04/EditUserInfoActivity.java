@@ -16,6 +16,6 @@ public class EditUserInfoActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         binding = DataBindingUtil.setContentView(this, R.layout.activity_edit_user_info);
 
-        binding.okBtn.setOnClickListener();
+
     }
 }
